@@ -13,7 +13,7 @@ Full software simulation of a VTVL (Vertical Take-off, Vertical Landing) hybrid 
 
 ## Project Structure
 
-```
+``` 
 rocket_project/
 ├── engine_control.py   Engine state machine, cluster rules, failure handling
 ├── flight_phase.py     Flight phase FSM, phase transitions, engine mapping
